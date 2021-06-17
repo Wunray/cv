@@ -60,9 +60,9 @@ position: relative;
 left: 30%;
  }
  .bottomcloud{
-   position: absolute;
+   position: relative;
    top: 500px;
-   left: 200px;
+   left: 20%;
  }
  .mountain1{
    position: relative;
