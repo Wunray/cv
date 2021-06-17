@@ -36,6 +36,9 @@ hr{
   color: #B2AB8C;
   margin: 100px auto 100px auto;
 }
+img{
+  max-width: 100%
+}
 /***********************Class editor******************************/
  .topcontainer{
    background-color: #293b5f;
@@ -52,12 +55,12 @@ hr{
 }
  .topcloud{
 position: relative;
-right: -500px;
+left: 500px;
  }
  .bottomcloud{
-   position: relative;
-   bottom: 300px;
-   left: -100px;
+   position: absolute;
+   top: 500px;
+   left: 200px;
  }
  .mountain1{
    position: relative;
