@@ -5,10 +5,12 @@ h1{
   font-family: 'Lobster', cursive;
   color: #b2ab8c;
   line-height: 2;
+  word-break: break-all;
 }
 body{
   margin: 0;
   text-align: center;
+  overflow-x: hidden;
 
 }
 p{
